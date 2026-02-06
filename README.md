@@ -44,13 +44,17 @@ pip install manim
 Para generar los videos desde los archivos .py, usa la terminal dentro de la carpeta del proyecto.
 
 1. Compilar la animación de Regresión Logística
-bash
-Copy
+```bash
+
 manim -pql Regresion_logistica.py ClassificationRegressionDemo
+```
 2. Compilar la animación del Kernel Trick (3D)
-bash
-Copy
+
+   
+```bash
+
 manim -pql "KernelTrick (1)_con_kernel (1).py" KernelTrickFull
+```
 Explicación de los comandos
 manim: Ejecuta la herramienta.
 -p: Modo Preview (abre el video automáticamente).
