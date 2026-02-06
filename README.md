@@ -33,9 +33,14 @@ Para poder ejecutar y compilar estos videos, necesitas:
 
 ### Instalación de Manim
 
-```bash
+bash
+Copy
 pip install manim
-🚀 Cómo Ejecutar y Compilar (How to Build)
+
+
+
+
+### 🚀 Cómo Ejecutar y Compilar (How to Build)
 Para generar los videos desde los archivos .py, usa la terminal dentro de la carpeta del proyecto.
 
 1. Compilar la animación de Regresión Logística
@@ -53,22 +58,22 @@ manim: Ejecuta la herramienta.
 Usa -pqh para alta calidad (1080p).
 archivo.py: Script a renderizar.
 NombreClase: Clase dentro del script que contiene la animación.
-📊 Conceptos Explicados en los Videos
+### 📊 Conceptos Explicados en los Videos
 Frontera de Decisión: Línea o plano que divide las clases.
 Función Sigmoide: Transforma scores en probabilidades entre 0 y 1.
 Feature Expansion: Expansión de características para hacer datos separables.
 Kernel RBF: Función de similitud basada en distancia euclidiana.
-📝 Notas sobre los Archivos
+### 📝 Notas sobre los Archivos
 Regresion_logistica.py: Incluye demostración con un dataset de 500 puntos.
 MachineLearning2_sinkernel.py:
 Si aparece vacío, verifica que contenga la clase de Manim antes de compilar.
 KernelTrick (1)_con_kernel (1).py:
 Contiene escenas complejas 3D; puede requerir GPU o tiempo de renderizado elevado.
-📚 Recursos Adicionales
+### 📚 Recursos Adicionales
 Documentación oficial de Manim
 Galería de ejemplos
 Canal de 3Blue1Brown
-👥 Autores
+### 👥 Autores
 Proyecto desarrollado como material educativo para el curso de Machine Learning.
 
 📄 Licencia
