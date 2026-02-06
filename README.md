@@ -34,7 +34,7 @@ Para poder ejecutar y compilar estos videos, necesitas:
 ### Instalación de Manim
 
 ```bash
-Copy
+
 pip install manim
 ```
 
